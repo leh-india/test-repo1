@@ -1,0 +1,7 @@
+organization=chaitu-devops-exp
+projectKey=onlinebookstore:onlinebookstore
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.44548
+dashboardUrl=https://sonarcloud.io/dashboard?id=onlinebookstore%3Aonlinebookstore
+ceTaskId=AYmwYtDXcU3PkCZDE_mQ
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYmwYtDXcU3PkCZDE_mQ
